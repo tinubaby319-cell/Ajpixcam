@@ -1,0 +1,6 @@
+{
+  "name": "AuraCam",
+  "description": "Minimalist professional AI camera with real-time composition guidance, auto-framing, intelligent film simulations, and pro controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
